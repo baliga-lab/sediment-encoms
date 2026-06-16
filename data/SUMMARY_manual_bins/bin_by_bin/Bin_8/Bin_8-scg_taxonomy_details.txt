@@ -1,0 +1,23 @@
+gene_callers_id	gene_name	percent_identity	supporting_consensus	t_domain	t_phylum	t_class	t_order	t_family	t_genus	t_species
+123773	Ribosomal_S16	100.0	True	Bacteria	Bacillota	Bacilli	Bacillales	DSM-18226	Mesobacillus	
+123778	Ribosomal_L19	100.0	True	Bacteria	Bacillota	Bacilli	Bacillales	DSM-18226	Mesobacillus	
+123830	Ribosomal_S2	99.6	True	Bacteria	Bacillota	Bacilli	Bacillales	DSM-18226	Mesobacillus	
+123849	Ribosomal_S15	100.0	True	Bacteria	Bacillota	Bacilli	Bacillales	DSM-18226	Mesobacillus	Mesobacillus sp018613055
+125682	Ribosomal_L21p	100.0	True	Bacteria	Bacillota	Bacilli	Bacillales	DSM-18226	Mesobacillus	
+125779	Ribosomal_L20	99.2	True	Bacteria	Bacillota	Bacilli	Bacillales	DSM-18226	Mesobacillus	
+126896	Ribosomal_S6	100.0	True	Bacteria	Bacillota	Bacilli	Bacillales	DSM-18226	Mesobacillus	Mesobacillus sp018613055
+127033	Ribosomal_L1	100.0	True	Bacteria	Bacillota	Bacilli	Bacillales	DSM-18226	Mesobacillus	
+127041	Ribosomal_S7	100.0	True	Bacteria	Bacillota	Bacilli	Bacillales	DSM-18226	Mesobacillus	
+127045	Ribosomal_L3	99.5	True	Bacteria	Bacillota	Bacilli	Bacillales	DSM-18226	Mesobacillus	Mesobacillus sp018613055
+127046	Ribosomal_L4	99.5	True	Bacteria	Bacillota	Bacilli	Bacillales	DSM-18226	Mesobacillus	
+127048	Ribosomal_L2	99.6	True	Bacteria	Bacillota	Bacilli	Bacillales	DSM-18226	Mesobacillus	Mesobacillus oceanisediminis_A
+127050	Ribosomal_L22	100.0	True	Bacteria	Bacillota	Bacilli	Bacillales	DSM-18226	Mesobacillus	
+127052	Ribosomal_L16	100.0	True	Bacteria	Bacillota	Bacilli	Bacillales	DSM-18226	Mesobacillus	
+127055	Ribosomal_L14	100.0	True	Bacteria	Bacillota	Bacilli	Bacillales	DSM-18226	Mesobacillus	Mesobacillus jeotgali_A
+127057	Ribosomal_L5	100.0	True	Bacteria	Bacillota	Bacilli	Bacillales	DSM-18226	Mesobacillus	
+127059	Ribosomal_S8	100.0	True	Bacteria	Bacillota	Bacilli	Bacillales	DSM-18226	Mesobacillus	
+127064	Ribosomal_L27A	100.0	True	Bacteria	Bacillota	Bacilli	Bacillales	DSM-18226	Mesobacillus	Mesobacillus oceanisediminis_A
+127070	Ribosomal_S11	100.0	True	Bacteria	Bacillota	Bacilli	Bacillales	DSM-18226	Mesobacillus	Mesobacillus subterraneus
+127072	Ribosomal_L17	100.0	True	Bacteria	Bacillota	Bacilli	Bacillales	DSM-18226	Mesobacillus	
+127077	Ribosomal_L13	100.0	True	Bacteria	Bacillota	Bacilli	Bacillales	DSM-18226	Mesobacillus	
+127078	Ribosomal_S9	100.0	True	Bacteria	Bacillota	Bacilli	Bacillales	DSM-18226	Mesobacillus	

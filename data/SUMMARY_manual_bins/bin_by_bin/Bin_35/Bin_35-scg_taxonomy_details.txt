@@ -1,0 +1,13 @@
+gene_callers_id	gene_name	percent_identity	supporting_consensus	t_domain	t_phylum	t_class	t_order	t_family	t_genus	t_species
+57060	Ribosomal_S6	100.0	False	Bacteria	Actinomycetota	Actinomycetia	Actinomycetales	Micrococcaceae	Arthrobacter	
+134619	Ribosomal_L1	99.6	True	Bacteria	Bacillota	Bacilli	Paenibacillales	Paenibacillaceae	Paenibacillus	Paenibacillus rhizosphaerae
+134633	Ribosomal_S7	100.0	True	Bacteria	Bacillota	Bacilli	Paenibacillales	Paenibacillaceae	Paenibacillus	
+134640	Ribosomal_L3	100.0	True	Bacteria	Bacillota	Bacilli	Paenibacillales	Paenibacillaceae	Paenibacillus	Paenibacillus cellulositrophicus_A
+134641	Ribosomal_L4	99.5	True	Bacteria	Bacillota	Bacilli	Paenibacillales	Paenibacillaceae	Paenibacillus	
+134649	Ribosomal_L14	100.0	True	Bacteria	Bacillota	Bacilli	Paenibacillales	Paenibacillaceae	Paenibacillus	
+134651	Ribosomal_L5	100.0	True	Bacteria	Bacillota	Bacilli	Paenibacillales	Paenibacillaceae	Paenibacillus	
+134653	Ribosomal_S8	100.0	True	Bacteria	Bacillota	Bacilli	Paenibacillales	Paenibacillaceae	Paenibacillus	
+134657	Ribosomal_L27A	100.0	True	Bacteria	Bacillota	Bacilli	Paenibacillales	Paenibacillaceae	Paenibacillus	
+134665	Ribosomal_L17	100.0	True	Bacteria	Bacillota	Bacilli	Paenibacillales	Paenibacillaceae	Paenibacillus	
+134668	Ribosomal_L13	97.1	False	Bacteria	Bacillota	Bacilli	Paenibacillales	Paenibacillaceae	Paenibacillus_A	Paenibacillus_A lutimineralis
+134669	Ribosomal_L13	98.2	True	Bacteria	Bacillota	Bacilli	Paenibacillales	Paenibacillaceae	Paenibacillus	

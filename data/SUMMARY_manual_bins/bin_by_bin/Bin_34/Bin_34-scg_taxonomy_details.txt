@@ -1,0 +1,5 @@
+gene_callers_id	gene_name	percent_identity	supporting_consensus	t_domain	t_phylum	t_class	t_order	t_family	t_genus	t_species
+35425	Ribosomal_L20	95.8	False	Bacteria	Bacillota	Bacilli	Bacillales	DSM-18226	Bacillus_BU	Bacillus_BU marasmi
+46933	Ribosomal_L19	99.2	True	Bacteria	Bacillota	Bacilli	Bacillales	DSM-18226	Neobacillus	
+46936	Ribosomal_S16	96.3	True	Bacteria	Bacillota	Bacilli	Bacillales	DSM-18226	Neobacillus	
+144974	Ribosomal_S6	97.9	True	Bacteria	Bacillota	Bacilli	Bacillales	DSM-18226	Neobacillus	

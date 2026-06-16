@@ -1,0 +1,23 @@
+gene_callers_id	gene_name	percent_identity	supporting_consensus	t_domain	t_phylum	t_class	t_order	t_family	t_genus	t_species
+7093	Ribosomal_L20	100.0	True	Bacteria	Bacillota	Bacilli	Bacillales	DSM-18226	Robertmurraya	
+7171	Ribosomal_L21p	99.0	True	Bacteria	Bacillota	Bacilli	Bacillales	DSM-18226	Robertmurraya	Robertmurraya sp011524525
+80751	Ribosomal_S6	100.0	True	Bacteria	Bacillota	Bacilli	Bacillales	DSM-18226	Robertmurraya	Robertmurraya sp003586445
+80869	Ribosomal_L1	100.0	True	Bacteria	Bacillota	Bacilli	Bacillales	DSM-18226	Robertmurraya	
+80877	Ribosomal_S7	100.0	True	Bacteria	Bacillota	Bacilli	Bacillales	DSM-18226	Robertmurraya	
+80885	Ribosomal_L3	100.0	True	Bacteria	Bacillota	Bacilli	Bacillales	DSM-18226	Robertmurraya	Robertmurraya sp003586445
+80886	Ribosomal_L4	100.0	True	Bacteria	Bacillota	Bacilli	Bacillales	DSM-18226	Robertmurraya	
+80888	Ribosomal_L2	100.0	True	Bacteria	Bacillota	Bacilli	Bacillales	DSM-18226	Robertmurraya	
+80890	Ribosomal_L22	100.0	True	Bacteria	Bacillota	Bacilli	Bacillales	DSM-18226	Robertmurraya	
+80892	Ribosomal_L16	100.0	True	Bacteria	Bacillota	Bacilli	Bacillales	DSM-18226	Robertmurraya	Robertmurraya sp003586445
+80895	Ribosomal_L14	100.0	True	Bacteria	Bacillota	Bacilli	Bacillales	DSM-18226	Robertmurraya	
+80897	Ribosomal_L5	100.0	True	Bacteria	Bacillota	Bacilli	Bacillales	DSM-18226	Robertmurraya	Robertmurraya sp003586445
+80899	Ribosomal_S8	100.0	True	Bacteria	Bacillota	Bacilli	Bacillales	DSM-18226	Robertmurraya	
+80904	Ribosomal_L27A	100.0	True	Bacteria	Bacillota	Bacilli	Bacillales	DSM-18226	Robertmurraya	
+80910	Ribosomal_S11	100.0	True	Bacteria	Bacillota	Bacilli	Bacillales	DSM-18226	Robertmurraya	
+80913	Ribosomal_L17	100.0	True	Bacteria	Bacillota	Bacilli	Bacillales	DSM-18226	Robertmurraya	
+80918	Ribosomal_L13	100.0	True	Bacteria	Bacillota	Bacilli	Bacillales	DSM-18226	Robertmurraya	
+80919	Ribosomal_S9	100.0	True	Bacteria	Bacillota	Bacilli	Bacillales	DSM-18226	Robertmurraya	
+85019	Ribosomal_S16	100.0	True	Bacteria	Bacillota	Bacilli	Bacillales	DSM-18226	Robertmurraya	Robertmurraya sp003586445
+85024	Ribosomal_L19	100.0	True	Bacteria	Bacillota	Bacilli	Bacillales	DSM-18226	Robertmurraya	Robertmurraya sp003586445
+85075	Ribosomal_S2	100.0	True	Bacteria	Bacillota	Bacilli	Bacillales	DSM-18226	Robertmurraya	
+85094	Ribosomal_S15	100.0	True	Bacteria	Bacillota	Bacilli	Bacillales	DSM-18226	Robertmurraya	

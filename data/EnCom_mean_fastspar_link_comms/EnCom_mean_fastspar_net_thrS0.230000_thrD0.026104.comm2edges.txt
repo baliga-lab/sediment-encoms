@@ -1,0 +1,110 @@
+1	Bin_11,Bin_14
+2	Bin_14,Bin_6
+3	Bin_37,Bin_7
+4	Bin_14,Bin_40
+5	Bin_11,Bin_18	Bin_11,Bin_22
+6	Bin_11,Bin_21
+7	Bin_18,Bin_5	Bin_22,Bin_5
+8	Bin_12,Bin_20
+9	Bin_20,Bin_8
+10	Bin_12,Bin_13
+11	Bin_21,Bin_6
+12	Bin_21,Bin_40
+13	Bin_21,Bin_5
+14	Bin_11,Bin_41
+15	Bin_15,Bin_37
+16	Bin_15,Bin_18	Bin_15,Bin_22
+17	Bin_40,Bin_41
+18	Bin_15,Bin_3
+19	Bin_13,Bin_6
+20	Bin_39,Bin_8	Bin_10,Bin_8	Bin_3,Bin_8
+21	Bin_2,Bin_39	Bin_1,Bin_3	Bin_1,Bin_39	Bin_1,Bin_10	Bin_1,Bin_2	Bin_2,Bin_3	Bin_10,Bin_3
+22	Bin_5,Bin_6
+23	Bin_13,Bin_8
+24	Bin_22,Bin_6
+25	Bin_22,Bin_40
+26	Bin_10,Bin_5	Bin_3,Bin_5	Bin_39,Bin_5
+27	Bin_3,Bin_6
+28	Bin_14,Bin_8
+29	Bin_37,Bin_41
+30	Bin_18,Bin_8	Bin_22,Bin_8
+31	Bin_11,Bin_13
+32	Bin_22,Bin_3	Bin_22,Bin_39	Bin_18,Bin_3	Bin_10,Bin_18	Bin_10,Bin_22
+33	Bin_20,Bin_21
+34	Bin_14,Bin_3	Bin_14,Bin_39	Bin_10,Bin_14
+35	Bin_14,Bin_5
+36	Bin_13,Bin_14
+37	Bin_21,Bin_8
+38	Bin_15,Bin_20
+39	Bin_20,Bin_41
+40	Bin_20,Bin_7
+41	Bin_18,Bin_22
+42	Bin_13,Bin_21
+43	Bin_11,Bin_15
+44	Bin_5,Bin_8
+45	Bin_12,Bin_5
+46	Bin_13,Bin_41
+47	Bin_3,Bin_7	Bin_10,Bin_7
+48	Bin_14,Bin_21
+49	Bin_18,Bin_21	Bin_21,Bin_22
+50	Bin_13,Bin_7
+51	Bin_11,Bin_20
+52	Bin_14,Bin_41
+53	Bin_20,Bin_37	Bin_20,Bin_9
+54	Bin_18,Bin_41
+55	Bin_14,Bin_7
+56	Bin_22,Bin_7	Bin_18,Bin_7
+57	Bin_11,Bin_8
+58	Bin_12,Bin_14	Bin_14,Bin_16	Bin_14,Bin_9	Bin_14,Bin_37
+59	Bin_21,Bin_41
+60	Bin_12,Bin_21
+61	Bin_7,Bin_8
+62	Bin_11,Bin_6
+63	Bin_40,Bin_8
+64	Bin_21,Bin_7
+65	Bin_40,Bin_9
+66	Bin_10,Bin_37
+67	Bin_11,Bin_5
+68	Bin_10,Bin_21	Bin_21,Bin_3	Bin_21,Bin_39
+69	Bin_41,Bin_8
+70	Bin_13,Bin_22	Bin_13,Bin_18
+71	Bin_13,Bin_37
+72	Bin_40,Bin_5
+73	Bin_10,Bin_11	Bin_11,Bin_3
+74	Bin_15,Bin_8
+75	Bin_6,Bin_8
+76	Bin_10,Bin_12	Bin_12,Bin_3	Bin_16,Bin_3	Bin_3,Bin_9
+77	Bin_41,Bin_5
+78	Bin_12,Bin_7
+79	Bin_10,Bin_41	Bin_3,Bin_41
+80	Bin_5,Bin_7
+81	Bin_15,Bin_5
+82	Bin_14,Bin_22	Bin_14,Bin_18
+83	Bin_22,Bin_37	Bin_18,Bin_37	Bin_22,Bin_9
+84	Bin_13,Bin_15
+85	Bin_37,Bin_5	Bin_5,Bin_9
+86	Bin_21,Bin_9	Bin_21,Bin_37
+87	Bin_14,Bin_15
+88	Bin_10,Bin_20	Bin_20,Bin_3	Bin_20,Bin_39
+89	Bin_20,Bin_6
+90	Bin_20,Bin_40
+91	Bin_13,Bin_3	Bin_10,Bin_13	Bin_13,Bin_39
+92	Bin_13,Bin_20
+93	Bin_20,Bin_5
+94	Bin_12,Bin_22	Bin_16,Bin_18	Bin_12,Bin_18
+95	Bin_15,Bin_21
+96	Bin_11,Bin_7
+97	Bin_40,Bin_7
+98	Bin_11,Bin_9	Bin_11,Bin_12	Bin_11,Bin_37	Bin_11,Bin_16
+99	Bin_14,Bin_20
+100	Bin_12,Bin_41	Bin_16,Bin_41
+101	Bin_41,Bin_7
+102	Bin_15,Bin_41
+103	Bin_3,Bin_40	Bin_39,Bin_40	Bin_10,Bin_40
+104	Bin_16,Bin_8	Bin_8,Bin_9	Bin_37,Bin_8	Bin_12,Bin_8
+105	Bin_20,Bin_22	Bin_18,Bin_20
+106	Bin_12,Bin_15
+107	Bin_15,Bin_7
+108	Bin_13,Bin_40
+109	Bin_6,Bin_7
+110	Bin_13,Bin_5

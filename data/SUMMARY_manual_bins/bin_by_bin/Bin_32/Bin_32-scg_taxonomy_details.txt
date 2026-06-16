@@ -1,0 +1,13 @@
+gene_callers_id	gene_name	percent_identity	supporting_consensus	t_domain	t_phylum	t_class	t_order	t_family	t_genus	t_species
+69982	Ribosomal_L17	100.0	True	Bacteria	Actinomycetota	Actinomycetia	Streptomycetales	Streptomycetaceae	Streptomyces	
+69983	Ribosomal_L17	98.7	True	Bacteria	Actinomycetota	Actinomycetia	Streptomycetales	Streptomycetaceae	Streptomyces	Streptomyces sp001905845
+70008	Ribosomal_L17	99.1	True	Bacteria	Actinomycetota	Actinomycetia	Streptomycetales	Streptomycetaceae	Streptomyces	Streptomyces fodineus
+70010	Ribosomal_S11	100.0	True	Bacteria	Actinomycetota	Actinomycetia	Streptomycetales	Streptomycetaceae	Streptomyces	
+70017	Ribosomal_L27A	100.0	True	Bacteria	Actinomycetota	Actinomycetia	Streptomycetales	Streptomycetaceae	Streptomyces	
+70022	Ribosomal_S8	100.0	True	Bacteria	Actinomycetota	Actinomycetia	Streptomycetales	Streptomycetaceae	Streptomyces	
+76227	Ribosomal_L20	98.3	True	Bacteria	Actinomycetota	Actinomycetia	Streptomycetales	Streptomycetaceae	Streptomyces	Streptomyces seoulensis_A
+98788	Ribosomal_L21p	99.2	True	Bacteria	Actinomycetota	Actinomycetia	Streptomycetales	Streptomycetaceae	Streptomyces	
+120348	Ribosomal_S16	97.9	True	Bacteria	Actinomycetota	Actinomycetia	Streptomycetales	Streptomycetaceae	Streptomyces	
+120350	Ribosomal_L19	100.0	True	Bacteria	Actinomycetota	Actinomycetia	Streptomycetales	Streptomycetaceae	Streptomyces	Streptomyces tricolor
+120364	Ribosomal_S2	100.0	True	Bacteria	Actinomycetota	Actinomycetia	Streptomycetales	Streptomycetaceae	Streptomyces	
+120486	Ribosomal_S15	100.0	True	Bacteria	Actinomycetota	Actinomycetia	Streptomycetales	Streptomycetaceae	Streptomyces	

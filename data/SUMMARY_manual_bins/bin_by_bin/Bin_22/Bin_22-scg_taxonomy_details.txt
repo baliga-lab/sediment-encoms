@@ -1,0 +1,23 @@
+gene_callers_id	gene_name	percent_identity	supporting_consensus	t_domain	t_phylum	t_class	t_order	t_family	t_genus	t_species
+8119	Ribosomal_S6	100.0	True	Bacteria	Actinomycetota	Actinomycetia	Actinomycetales	Cellulomonadaceae	Cellulomonas	
+23999	Ribosomal_L21p	100.0	True	Bacteria	Actinomycetota	Actinomycetia	Actinomycetales	Cellulomonadaceae	Cellulomonas	
+25030	Ribosomal_S16	98.9	False	Bacteria	Actinomycetota	Actinomycetia	Actinomycetales	Micrococcaceae	Arthrobacter	
+25032	Ribosomal_L19	93.2	True	Bacteria	Actinomycetota	Actinomycetia	Actinomycetales	Cellulomonadaceae	Cellulomonas	
+25054	Ribosomal_S2	97.5	False	Bacteria	Actinomycetota	Actinomycetia	Streptomycetales	Streptomycetaceae	Streptomyces	Streptomyces thermovulgaris
+25086	Ribosomal_S15	100.0	True	Bacteria	Actinomycetota	Actinomycetia	Actinomycetales	Cellulomonadaceae	Cellulomonas	
+32522	Ribosomal_L20	100.0	True	Bacteria	Actinomycetota	Actinomycetia	Actinomycetales	Cellulomonadaceae	Cellulomonas	
+75595	Ribosomal_S7	97.6	False	Bacteria	Actinomycetota	Actinomycetia	Actinomycetales			
+75600	Ribosomal_L3	100.0	True	Bacteria	Actinomycetota	Actinomycetia	Actinomycetales	Cellulomonadaceae	Cellulomonas	
+75601	Ribosomal_L4	100.0	True	Bacteria	Actinomycetota	Actinomycetia	Actinomycetales	Cellulomonadaceae	Cellulomonas	
+75602	Ribosomal_L2	100.0	True	Bacteria	Actinomycetota	Actinomycetia	Actinomycetales	Cellulomonadaceae	Cellulomonas	
+75604	Ribosomal_L22	100.0	True	Bacteria	Actinomycetota	Actinomycetia	Actinomycetales	Cellulomonadaceae	Cellulomonas	
+75606	Ribosomal_L16	100.0	True	Bacteria	Actinomycetota	Actinomycetia	Actinomycetales	Cellulomonadaceae	Cellulomonas	
+75609	Ribosomal_L14	100.0	True	Bacteria	Actinomycetota	Actinomycetia	Actinomycetales	Cellulomonadaceae	Cellulomonas	
+75611	Ribosomal_L5	100.0	True	Bacteria	Actinomycetota	Actinomycetia	Actinomycetales	Cellulomonadaceae	Cellulomonas	Cellulomonas cellulans_A
+75613	Ribosomal_S8	100.0	True	Bacteria	Actinomycetota	Actinomycetia	Actinomycetales	Cellulomonadaceae	Cellulomonas	
+75618	Ribosomal_L27A	100.0	True	Bacteria	Actinomycetota	Actinomycetia	Actinomycetales	Cellulomonadaceae	Cellulomonas	Cellulomonas cellulans_A
+75635	Ribosomal_S11	100.0	True	Bacteria	Actinomycetota	Actinomycetia	Actinomycetales	Cellulomonadaceae	Cellulomonas	
+75637	Ribosomal_L17	100.0	True	Bacteria	Actinomycetota	Actinomycetia	Actinomycetales	Cellulomonadaceae	Cellulomonas	Cellulomonas cellulans_A
+75648	Ribosomal_L13	100.0	True	Bacteria	Actinomycetota	Actinomycetia	Actinomycetales	Cellulomonadaceae	Cellulomonas	
+75649	Ribosomal_S9	100.0	True	Bacteria	Actinomycetota	Actinomycetia	Actinomycetales	Cellulomonadaceae	Cellulomonas	Cellulomonas cellulans_A
+141644	Ribosomal_L1	100.0	True	Bacteria	Actinomycetota	Actinomycetia	Actinomycetales	Cellulomonadaceae	Cellulomonas	Cellulomonas cellulans_A

@@ -1,0 +1,23 @@
+gene_callers_id	gene_name	percent_identity	supporting_consensus	t_domain	t_phylum	t_class	t_order	t_family	t_genus	t_species
+14045	Ribosomal_L1	99.6	True	Bacteria	Actinomycetota	Actinomycetia	Actinomycetales	Dermatophilaceae	Janibacter	Janibacter terrae
+14055	Ribosomal_S7	100.0	True	Bacteria	Actinomycetota	Actinomycetia	Actinomycetales	Dermatophilaceae	Janibacter	Janibacter terrae
+14060	Ribosomal_L3	100.0	True	Bacteria	Actinomycetota	Actinomycetia	Actinomycetales	Dermatophilaceae	Janibacter	Janibacter terrae
+14061	Ribosomal_L4	100.0	True	Bacteria	Actinomycetota	Actinomycetia	Actinomycetales	Dermatophilaceae	Janibacter	Janibacter terrae
+14063	Ribosomal_L2	100.0	True	Bacteria	Actinomycetota	Actinomycetia	Actinomycetales	Dermatophilaceae	Janibacter	Janibacter terrae
+14065	Ribosomal_L22	99.3	True	Bacteria	Actinomycetota	Actinomycetia	Actinomycetales	Dermatophilaceae	Janibacter	Janibacter terrae
+14067	Ribosomal_L16	99.3	True	Bacteria	Actinomycetota	Actinomycetia	Actinomycetales	Dermatophilaceae	Janibacter	Janibacter terrae
+14070	Ribosomal_L14	100.0	False	Bacteria	Actinomycetota	Actinomycetia	Actinomycetales	Dermatophilaceae	Janibacter	
+14072	Ribosomal_L5	100.0	True	Bacteria	Actinomycetota	Actinomycetia	Actinomycetales	Dermatophilaceae	Janibacter	Janibacter terrae
+14074	Ribosomal_S8	100.0	True	Bacteria	Actinomycetota	Actinomycetia	Actinomycetales	Dermatophilaceae	Janibacter	Janibacter terrae
+14079	Ribosomal_L27A	100.0	True	Bacteria	Actinomycetota	Actinomycetia	Actinomycetales	Dermatophilaceae	Janibacter	Janibacter terrae
+14090	Ribosomal_S11	100.0	True	Bacteria	Actinomycetota	Actinomycetia	Actinomycetales	Dermatophilaceae	Janibacter	Janibacter terrae
+14093	Ribosomal_L17	98.7	True	Bacteria	Actinomycetota	Actinomycetia	Actinomycetales	Dermatophilaceae	Janibacter	Janibacter terrae
+14096	Ribosomal_L13	100.0	True	Bacteria	Actinomycetota	Actinomycetia	Actinomycetales	Dermatophilaceae	Janibacter	Janibacter terrae
+14097	Ribosomal_S9	100.0	True	Bacteria	Actinomycetota	Actinomycetia	Actinomycetales	Dermatophilaceae	Janibacter	Janibacter terrae
+14468	Ribosomal_S16	100.0	True	Bacteria	Actinomycetota	Actinomycetia	Actinomycetales	Dermatophilaceae	Janibacter	Janibacter terrae
+14472	Ribosomal_L19	100.0	True	Bacteria	Actinomycetota	Actinomycetia	Actinomycetales	Dermatophilaceae	Janibacter	Janibacter terrae
+14483	Ribosomal_S2	100.0	True	Bacteria	Actinomycetota	Actinomycetia	Actinomycetales	Dermatophilaceae	Janibacter	Janibacter terrae
+14563	Ribosomal_L21p	100.0	True	Bacteria	Actinomycetota	Actinomycetia	Actinomycetales	Dermatophilaceae	Janibacter	Janibacter terrae
+59092	Ribosomal_S15	100.0	True	Bacteria	Actinomycetota	Actinomycetia	Actinomycetales	Dermatophilaceae	Janibacter	Janibacter terrae
+59288	Ribosomal_L20	100.0	True	Bacteria	Actinomycetota	Actinomycetia	Actinomycetales	Dermatophilaceae	Janibacter	Janibacter terrae
+147897	Ribosomal_S6	100.0	True	Bacteria	Actinomycetota	Actinomycetia	Actinomycetales	Dermatophilaceae	Janibacter	Janibacter terrae

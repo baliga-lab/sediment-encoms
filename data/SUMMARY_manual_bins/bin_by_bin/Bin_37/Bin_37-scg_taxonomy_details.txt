@@ -1,0 +1,23 @@
+gene_callers_id	gene_name	percent_identity	supporting_consensus	t_domain	t_phylum	t_class	t_order	t_family	t_genus	t_species
+108844	Ribosomal_L21p	100.0	True	Bacteria	Actinomycetota	Actinomycetia	Actinomycetales	Microbacteriaceae	Microbacterium	
+109262	Ribosomal_S2	98.8	True	Bacteria	Actinomycetota	Actinomycetia	Actinomycetales	Microbacteriaceae	Microbacterium	Microbacterium sp022627955
+109271	Ribosomal_L19	100.0	True	Bacteria	Actinomycetota	Actinomycetia	Actinomycetales	Microbacteriaceae	Microbacterium	
+109280	Ribosomal_S16	97.6	True	Bacteria	Actinomycetota	Actinomycetia	Actinomycetales	Microbacteriaceae	Microbacterium	Microbacterium sp019510305
+109401	Ribosomal_S15	100.0	True	Bacteria	Actinomycetota	Actinomycetia	Actinomycetales	Microbacteriaceae	Microbacterium	
+109994	Ribosomal_S9	100.0	True	Bacteria	Actinomycetota	Actinomycetia	Actinomycetales	Microbacteriaceae	Microbacterium	
+109995	Ribosomal_L13	100.0	True	Bacteria	Actinomycetota	Actinomycetia	Actinomycetales	Microbacteriaceae	Microbacterium	Microbacterium sp001650405
+110795	Ribosomal_S6	100.0	True	Bacteria	Actinomycetota	Actinomycetia	Actinomycetales	Microbacteriaceae	Microbacterium	
+111381	Ribosomal_S7	100.0	True	Bacteria	Actinomycetota	Actinomycetia	Actinomycetales	Microbacteriaceae	Microbacterium	
+111395	Ribosomal_L3	99.1	True	Bacteria	Actinomycetota	Actinomycetia	Actinomycetales	Microbacteriaceae	Microbacterium	Microbacterium sp001650405
+111396	Ribosomal_L4	97.3	True	Bacteria	Actinomycetota	Actinomycetia	Actinomycetales	Microbacteriaceae	Microbacterium	Microbacterium sp003075395
+111398	Ribosomal_L2	100.0	True	Bacteria	Actinomycetota	Actinomycetia	Actinomycetales	Microbacteriaceae	Microbacterium	Microbacterium oxydans_B
+111400	Ribosomal_L22	99.2	True	Bacteria	Actinomycetota	Actinomycetia	Actinomycetales	Microbacteriaceae	Microbacterium	
+111402	Ribosomal_L16	100.0	True	Bacteria	Actinomycetota	Actinomycetia	Actinomycetales	Microbacteriaceae	Microbacterium	
+111405	Ribosomal_L14	100.0	True	Bacteria	Actinomycetota	Actinomycetia	Actinomycetales	Microbacteriaceae	Microbacterium	
+111407	Ribosomal_L5	99.5	True	Bacteria	Actinomycetota	Actinomycetia	Actinomycetales	Microbacteriaceae	Microbacterium	Microbacterium sp001049495
+111408	Ribosomal_S8	100.0	True	Bacteria	Actinomycetota	Actinomycetia	Actinomycetales	Microbacteriaceae	Microbacterium	Microbacterium sp002979415
+111413	Ribosomal_L27A	99.3	True	Bacteria	Actinomycetota	Actinomycetia	Actinomycetales	Microbacteriaceae	Microbacterium	
+111421	Ribosomal_S11	100.0	True	Bacteria	Actinomycetota	Actinomycetia	Actinomycetales	Microbacteriaceae	Microbacterium	
+111423	Ribosomal_L17	97.8	True	Bacteria	Actinomycetota	Actinomycetia	Actinomycetales	Microbacteriaceae	Microbacterium	Microbacterium hydrocarbonoxydans_C
+111454	Ribosomal_L1	97.8	True	Bacteria	Actinomycetota	Actinomycetia	Actinomycetales	Microbacteriaceae	Microbacterium	Microbacterium sp002979415
+111813	Ribosomal_L20	100.0	True	Bacteria	Actinomycetota	Actinomycetia	Actinomycetales	Microbacteriaceae	Microbacterium	

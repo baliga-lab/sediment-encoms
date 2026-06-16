@@ -1,0 +1,6 @@
+gene_callers_id	gene_name	percent_identity	supporting_consensus	t_domain	t_phylum	t_class	t_order	t_family	t_genus	t_species
+71952	Ribosomal_L19	100.0	True	Bacteria	Actinomycetota	Actinomycetia	Actinomycetales	Micrococcaceae	Arthrobacter	
+71956	Ribosomal_S16	100.0	True	Bacteria	Actinomycetota	Actinomycetia	Actinomycetales	Micrococcaceae	Arthrobacter	
+145510	Ribosomal_S15	98.9	True	Bacteria	Actinomycetota	Actinomycetia	Actinomycetales	Micrococcaceae	Arthrobacter	
+152653	Ribosomal_L21p	98.2	True	Bacteria	Actinomycetota	Actinomycetia	Actinomycetales	Micrococcaceae	Arthrobacter	
+152654	Ribosomal_L21p	100.0	True	Bacteria	Actinomycetota	Actinomycetia	Actinomycetales	Micrococcaceae	Arthrobacter	

@@ -1,0 +1,4 @@
+gene_callers_id	gene_name	percent_identity	supporting_consensus	t_domain	t_phylum	t_class	t_order	t_family	t_genus	t_species
+6694	Ribosomal_S9	100.0	True	Bacteria	Actinomycetota	Actinomycetia	Actinomycetales	Micrococcaceae	Arthrobacter	Arthrobacter phenanthrenivorans_B
+6695	Ribosomal_L13	98.8	True	Bacteria	Actinomycetota	Actinomycetia	Actinomycetales	Micrococcaceae	Arthrobacter	
+10710	Ribosomal_S7	100.0	True	Bacteria	Actinomycetota	Actinomycetia	Actinomycetales	Micrococcaceae		

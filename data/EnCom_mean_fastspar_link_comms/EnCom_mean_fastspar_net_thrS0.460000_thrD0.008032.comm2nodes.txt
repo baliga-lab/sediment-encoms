@@ -1,0 +1,149 @@
+1	Bin_37	Bin_7
+2	Bin_5	Bin_7
+3	Bin_5	Bin_41
+4	Bin_22	Bin_39
+5	Bin_18	Bin_15
+6	Bin_3	Bin_10	Bin_13
+7	Bin_13	Bin_20
+8	Bin_12	Bin_21
+9	Bin_39	Bin_21
+10	Bin_5	Bin_9
+11	Bin_14	Bin_21
+12	Bin_8	Bin_20
+13	Bin_18	Bin_22
+14	Bin_11	Bin_14
+15	Bin_10	Bin_3	Bin_11
+16	Bin_12	Bin_11
+17	Bin_12	Bin_18
+18	Bin_10	Bin_3	Bin_14
+19	Bin_5	Bin_6
+20	Bin_5	Bin_20
+21	Bin_22	Bin_21
+22	Bin_12	Bin_3	Bin_10
+23	Bin_14	Bin_20
+24	Bin_20	Bin_21
+25	Bin_22	Bin_11
+26	Bin_8	Bin_9
+27	Bin_5	Bin_39
+28	Bin_16	Bin_41
+29	Bin_3	Bin_10	Bin_22
+30	Bin_8	Bin_6
+31	Bin_8	Bin_15
+32	Bin_18	Bin_41
+33	Bin_8	Bin_13
+34	Bin_11	Bin_20
+35	Bin_3	Bin_10	Bin_20
+36	Bin_5	Bin_13
+37	Bin_3	Bin_10	Bin_41
+38	Bin_13	Bin_21
+39	Bin_12	Bin_8
+40	Bin_7	Bin_20
+41	Bin_8	Bin_14
+42	Bin_16	Bin_14
+43	Bin_18	Bin_13
+44	Bin_12	Bin_5
+45	Bin_40	Bin_41
+46	Bin_5	Bin_14
+47	Bin_8	Bin_21
+48	Bin_8	Bin_11
+49	Bin_7	Bin_15
+50	Bin_3	Bin_10
+51	Bin_12	Bin_15
+52	Bin_18	Bin_21
+53	Bin_37	Bin_15
+54	Bin_8	Bin_39
+55	Bin_6	Bin_20
+56	Bin_5	Bin_21
+57	Bin_18	Bin_14
+58	Bin_5	Bin_11
+59	Bin_11	Bin_21
+60	Bin_7	Bin_41
+61	Bin_18	Bin_20
+62	Bin_40	Bin_20
+63	Bin_37	Bin_41
+64	Bin_10	Bin_3	Bin_21
+65	Bin_12	Bin_7
+66	Bin_7	Bin_14
+67	Bin_18	Bin_11
+68	Bin_37	Bin_14
+69	Bin_6	Bin_13
+70	Bin_10	Bin_3	Bin_18
+71	Bin_41	Bin_15
+72	Bin_14	Bin_9
+73	Bin_40	Bin_13
+74	Bin_39	Bin_20
+75	Bin_3	Bin_16
+76	Bin_37	Bin_20
+77	Bin_8	Bin_16
+78	Bin_15	Bin_13
+79	Bin_22	Bin_8
+80	Bin_18	Bin_8
+81	Bin_6	Bin_14
+82	Bin_20	Bin_9
+83	Bin_22	Bin_5
+84	Bin_7	Bin_6
+85	Bin_18	Bin_5
+86	Bin_40	Bin_14
+87	Bin_6	Bin_21
+88	Bin_16	Bin_11
+89	Bin_10	Bin_3	Bin_8
+90	Bin_7	Bin_13
+91	Bin_15	Bin_14
+92	Bin_11	Bin_6
+93	Bin_37	Bin_13
+94	Bin_12	Bin_13
+95	Bin_18	Bin_16
+96	Bin_3	Bin_6
+97	Bin_40	Bin_21
+98	Bin_10	Bin_3	Bin_5
+99	Bin_41	Bin_20
+100	Bin_22	Bin_15
+101	Bin_8	Bin_40
+102	Bin_11	Bin_15
+103	Bin_39	Bin_40
+104	Bin_39	Bin_14
+105	Bin_12	Bin_14
+106	Bin_22	Bin_7
+107	Bin_18	Bin_7
+108	Bin_11	Bin_13
+109	Bin_5	Bin_40
+110	Bin_15	Bin_20
+111	Bin_37	Bin_22
+112	Bin_37	Bin_18
+113	Bin_8	Bin_7
+114	Bin_7	Bin_21
+115	Bin_12	Bin_22
+116	Bin_41	Bin_13
+117	Bin_7	Bin_11
+118	Bin_37	Bin_21
+119	Bin_22	Bin_9
+120	Bin_22	Bin_14
+121	Bin_37	Bin_11
+122	Bin_37	Bin_8
+123	Bin_3	Bin_10	Bin_7
+124	Bin_5	Bin_8
+125	Bin_37	Bin_10
+126	Bin_9	Bin_21
+127	Bin_12	Bin_20
+128	Bin_10	Bin_3	Bin_40
+129	Bin_22	Bin_6
+130	Bin_11	Bin_9
+131	Bin_37	Bin_5
+132	Bin_12	Bin_41
+133	Bin_22	Bin_20
+134	Bin_7	Bin_40
+135	Bin_41	Bin_14
+136	Bin_3	Bin_9
+137	Bin_3	Bin_15
+138	Bin_22	Bin_40
+139	Bin_39	Bin_13
+140	Bin_14	Bin_13
+141	Bin_41	Bin_21
+142	Bin_40	Bin_9
+143	Bin_5	Bin_15
+144	Bin_11	Bin_41
+145	Bin_8	Bin_41
+146	Bin_15	Bin_21
+147	Bin_39	Bin_2	Bin_1
+148	Bin_10	Bin_2	Bin_1	Bin_3
+149	Bin_22	Bin_13

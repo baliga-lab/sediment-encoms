@@ -1,0 +1,5 @@
+gene_callers_id	gene_name	percent_identity	supporting_consensus	t_domain	t_phylum	t_class	t_order	t_family	t_genus	t_species
+7583	Ribosomal_S16	100.0	True	Bacteria	Bacillota	Bacilli	Bacillales	DSM-18226	Robertmurraya	Robertmurraya sp003586445
+7588	Ribosomal_L19	100.0	True	Bacteria	Bacillota	Bacilli	Bacillales	DSM-18226	Robertmurraya	Robertmurraya sp003586445
+7639	Ribosomal_S2	100.0	True	Bacteria	Bacillota	Bacilli	Bacillales	DSM-18226	Robertmurraya	
+7658	Ribosomal_S15	100.0	True	Bacteria	Bacillota	Bacilli	Bacillales	DSM-18226	Robertmurraya	

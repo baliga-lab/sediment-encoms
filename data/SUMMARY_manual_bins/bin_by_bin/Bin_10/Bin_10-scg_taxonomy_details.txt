@@ -1,0 +1,14 @@
+gene_callers_id	gene_name	percent_identity	supporting_consensus	t_domain	t_phylum	t_class	t_order	t_family	t_genus	t_species
+596	Ribosomal_L19	92.2	True	Bacteria	Verrucomicrobiota	Verrucomicrobiae	Opitutales	Opitutaceae	MWDT01	MWDT01 sp021782105
+952	Ribosomal_S15	97.7	True	Bacteria	Verrucomicrobiota	Verrucomicrobiae	Opitutales	Opitutaceae	Palsa-1447	Palsa-1447 sp003151495
+1411	Ribosomal_L20	92.6	True	Bacteria	Verrucomicrobiota	Verrucomicrobiae	Opitutales	Opitutaceae	EW11	EW11 sp023428905
+1555	Ribosomal_S11	95.9	True	Bacteria	Verrucomicrobiota	Verrucomicrobiae	Opitutales	Opitutaceae	Synoicihabitans	Synoicihabitans sp023386835
+1560	Ribosomal_L27A	90.5	True	Bacteria	Verrucomicrobiota	Verrucomicrobiae	Opitutales	Opitutaceae	CAMAXB01	CAMAXB01 sp945862035
+1568	Ribosomal_L14	95.0	True	Bacteria	Verrucomicrobiota	Verrucomicrobiae	Opitutales	Opitutaceae		
+1571	Ribosomal_L16	96.4	True	Bacteria	Verrucomicrobiota	Verrucomicrobiae	Opitutales	Opitutaceae		
+1573	Ribosomal_L22	92.0	True	Bacteria	Verrucomicrobiota	Verrucomicrobiae	Opitutales	Opitutaceae	Opitutus	Opitutus sp023391285
+1578	Ribosomal_L4	91.5	True	Bacteria	Verrucomicrobiota	Verrucomicrobiae	Opitutales	Opitutaceae	CAMAXB01	CAMAXB01 sp945862035
+1582	Ribosomal_S7	95.5	True	Bacteria	Verrucomicrobiota	Verrucomicrobiae	Opitutales	Opitutaceae		
+2189	Ribosomal_S9	93.2	True	Bacteria	Verrucomicrobiota	Verrucomicrobiae	Opitutales	Opitutaceae	ER46	ER46 sp016871595
+2190	Ribosomal_L13	96.4	True	Bacteria	Verrucomicrobiota	Verrucomicrobiae	Opitutales	Opitutaceae	JADKHC01	JADKHC01 sp016721945
+5145	Ribosomal_L21p	94.2	True	Bacteria	Verrucomicrobiota	Verrucomicrobiae	Opitutales	Opitutaceae	Geminisphaera	Geminisphaera sp000242935

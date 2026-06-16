@@ -1,0 +1,24 @@
+gene_callers_id	gene_name	percent_identity	supporting_consensus	t_domain	t_phylum	t_class	t_order	t_family	t_genus	t_species
+85902	Ribosomal_S9	100.0	True	Bacteria	Bacillota	Bacilli	Bacillales	Planococcaceae	Lysinibacillus	
+85903	Ribosomal_L13	100.0	True	Bacteria	Bacillota	Bacilli	Bacillales	Planococcaceae	Lysinibacillus	
+85908	Ribosomal_L17	100.0	True	Bacteria	Bacillota	Bacilli	Bacillales	Planococcaceae	Lysinibacillus	
+85910	Ribosomal_S11	100.0	True	Bacteria	Bacillota	Bacilli	Bacillales	Planococcaceae	Lysinibacillus	
+85915	Ribosomal_L27A	99.3	True	Bacteria	Bacillota	Bacilli	Bacillales	Planococcaceae	Lysinibacillus	
+85920	Ribosomal_S8	100.0	True	Bacteria	Bacillota	Bacilli	Bacillales	Planococcaceae	Lysinibacillus	
+85922	Ribosomal_L5	100.0	True	Bacteria	Bacillota	Bacilli	Bacillales	Planococcaceae	Lysinibacillus	
+85924	Ribosomal_L14	100.0	False	Bacteria	Bacillota	Bacilli	Bacillales	Planococcaceae		
+85927	Ribosomal_L16	100.0	True	Bacteria	Bacillota	Bacilli	Bacillales	Planococcaceae	Lysinibacillus	
+85929	Ribosomal_L22	100.0	True	Bacteria	Bacillota	Bacilli	Bacillales	Planococcaceae	Lysinibacillus	
+85931	Ribosomal_L2	100.0	True	Bacteria	Bacillota	Bacilli	Bacillales	Planococcaceae	Lysinibacillus	
+85933	Ribosomal_L4	100.0	True	Bacteria	Bacillota	Bacilli	Bacillales	Planococcaceae	Lysinibacillus	
+85934	Ribosomal_L3	99.5	True	Bacteria	Bacillota	Bacilli	Bacillales	Planococcaceae	Lysinibacillus	Lysinibacillus fusiformis_E
+85943	Ribosomal_S7	100.0	True	Bacteria	Bacillota	Bacilli	Bacillales	Planococcaceae	Lysinibacillus	
+85951	Ribosomal_L1	98.7	True	Bacteria	Bacillota	Bacilli	Bacillales	Planococcaceae	Lysinibacillus	Lysinibacillus sp023337795
+86058	Ribosomal_S6	100.0	True	Bacteria	Bacillota	Bacilli	Bacillales	Planococcaceae	Lysinibacillus	
+87060	Ribosomal_S16	98.9	True	Bacteria	Bacillota	Bacilli	Bacillales	Planococcaceae	Lysinibacillus	
+87064	Ribosomal_L19	100.0	True	Bacteria	Bacillota	Bacilli	Bacillales	Planococcaceae	Lysinibacillus	
+87114	Ribosomal_S2	99.6	True	Bacteria	Bacillota	Bacilli	Bacillales	Planococcaceae	Lysinibacillus	
+87135	Ribosomal_S15	100.0	True	Bacteria	Bacillota	Bacilli	Bacillales	Planococcaceae	Lysinibacillus	Lysinibacillus xylanilyticus_A
+88847	Ribosomal_L3	91.5	False	Bacteria	Bacillota	Bacilli	Bacillales	DSM-18226	Cytobacillus	Cytobacillus sp023389895
+89540	Ribosomal_L21p	100.0	True	Bacteria	Bacillota	Bacilli	Bacillales	Planococcaceae	Lysinibacillus	
+89785	Ribosomal_L20	100.0	True	Bacteria	Bacillota	Bacilli	Bacillales	Planococcaceae	Lysinibacillus	

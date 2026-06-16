@@ -1,0 +1,23 @@
+gene_callers_id	gene_name	percent_identity	supporting_consensus	t_domain	t_phylum	t_class	t_order	t_family	t_genus	t_species
+64142	Ribosomal_L21p	100.0	True	Bacteria	Bacillota	Bacilli	Bacillales_G	Fictibacillaceae	Fictibacillus_C	Fictibacillus_C sp001510655
+64257	Ribosomal_L20	100.0	True	Bacteria	Bacillota	Bacilli	Bacillales_G	Fictibacillaceae	Fictibacillus_C	Fictibacillus_C sp001510655
+96134	Ribosomal_S6	98.9	True	Bacteria	Bacillota	Bacilli	Bacillales_G	Fictibacillaceae	Fictibacillus_C	Fictibacillus_C sp001510655
+116292	Ribosomal_S15	100.0	True	Bacteria	Bacillota	Bacilli	Bacillales_G	Fictibacillaceae	Fictibacillus_C	Fictibacillus_C sp001510655
+143502	Ribosomal_S2	99.6	True	Bacteria	Bacillota	Bacilli	Bacillales_G	Fictibacillaceae	Fictibacillus_C	Fictibacillus_C sp001510655
+143554	Ribosomal_L19	99.1	False	Bacteria	Bacillota	Bacilli	Bacillales_G	Fictibacillaceae	Fictibacillus_C	
+143558	Ribosomal_S16	100.0	True	Bacteria	Bacillota	Bacilli	Bacillales_G	Fictibacillaceae	Fictibacillus_C	Fictibacillus_C sp001510655
+149664	Ribosomal_S9	100.0	True	Bacteria	Bacillota	Bacilli	Bacillales_G	Fictibacillaceae	Fictibacillus_C	Fictibacillus_C sp001510655
+149665	Ribosomal_L13	100.0	False	Bacteria	Bacillota	Bacilli	Bacillales_G	Fictibacillaceae	Fictibacillus_C	
+149670	Ribosomal_L17	100.0	True	Bacteria	Bacillota	Bacilli	Bacillales_G	Fictibacillaceae	Fictibacillus_C	Fictibacillus_C sp001510655
+149672	Ribosomal_S11	100.0	True	Bacteria	Bacillota	Bacilli	Bacillales_G	Fictibacillaceae	Fictibacillus_C	Fictibacillus_C sp001510655
+149681	Ribosomal_L27A	99.3	False	Bacteria	Bacillota	Bacilli	Bacillales_G	Fictibacillaceae	Fictibacillus_C	
+149686	Ribosomal_S8	100.0	True	Bacteria	Bacillota	Bacilli	Bacillales_G	Fictibacillaceae	Fictibacillus_C	Fictibacillus_C sp001510655
+149688	Ribosomal_L5	99.4	True	Bacteria	Bacillota	Bacilli	Bacillales_G	Fictibacillaceae	Fictibacillus_C	Fictibacillus_C sp001510655
+149690	Ribosomal_L14	100.0	True	Bacteria	Bacillota	Bacilli	Bacillales_G	Fictibacillaceae	Fictibacillus_C	Fictibacillus_C sp001510655
+149693	Ribosomal_L16	99.3	False	Bacteria	Bacillota	Bacilli	Bacillales_G	Fictibacillaceae	Fictibacillus_C	
+149695	Ribosomal_L22	100.0	False	Bacteria	Bacillota	Bacilli	Bacillales_G	Fictibacillaceae	Fictibacillus_C	
+149697	Ribosomal_L2	99.6	True	Bacteria	Bacillota	Bacilli	Bacillales_G	Fictibacillaceae	Fictibacillus_C	Fictibacillus_C sp001510655
+149699	Ribosomal_L4	100.0	True	Bacteria	Bacillota	Bacilli	Bacillales_G	Fictibacillaceae	Fictibacillus_C	Fictibacillus_C sp001510655
+149700	Ribosomal_L3	99.5	True	Bacteria	Bacillota	Bacilli	Bacillales_G	Fictibacillaceae	Fictibacillus_C	Fictibacillus_C sp001510655
+149704	Ribosomal_S7	100.0	True	Bacteria	Bacillota	Bacilli	Bacillales_G	Fictibacillaceae	Fictibacillus_C	Fictibacillus_C sp001510655
+149713	Ribosomal_L1	98.7	True	Bacteria	Bacillota	Bacilli	Bacillales_G	Fictibacillaceae	Fictibacillus_C	Fictibacillus_C sp001510655

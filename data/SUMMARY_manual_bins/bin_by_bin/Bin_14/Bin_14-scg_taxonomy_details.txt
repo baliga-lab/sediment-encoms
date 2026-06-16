@@ -1,0 +1,24 @@
+gene_callers_id	gene_name	percent_identity	supporting_consensus	t_domain	t_phylum	t_class	t_order	t_family	t_genus	t_species
+63121	Ribosomal_L20	100.0	True	Bacteria	Bacillota	Bacilli	Bacillales	Bacillaceae	Bacillus	
+63239	Ribosomal_L21p	100.0	True	Bacteria	Bacillota	Bacilli	Bacillales	Bacillaceae	Bacillus	
+128400	Ribosomal_S6	100.0	True	Bacteria	Bacillota	Bacilli	Bacillales	Bacillaceae	Bacillus	Bacillus licheniformis
+128556	Ribosomal_L1	100.0	True	Bacteria	Bacillota	Bacilli	Bacillales	Bacillaceae	Bacillus	Bacillus licheniformis
+128557	Ribosomal_L1	100.0	True	Bacteria	Bacillota	Bacilli	Bacillales	Bacillaceae	Bacillus	
+128567	Ribosomal_S7	100.0	True	Bacteria	Bacillota	Bacilli	Bacillales	Bacillaceae	Bacillus	
+128572	Ribosomal_L3	100.0	True	Bacteria	Bacillota	Bacilli	Bacillales	Bacillaceae	Bacillus	Bacillus licheniformis
+128573	Ribosomal_L4	100.0	True	Bacteria	Bacillota	Bacilli	Bacillales	Bacillaceae	Bacillus	Bacillus licheniformis
+128575	Ribosomal_L2	100.0	True	Bacteria	Bacillota	Bacilli	Bacillales	Bacillaceae	Bacillus	
+128577	Ribosomal_L22	100.0	True	Bacteria	Bacillota	Bacilli	Bacillales	Bacillaceae	Bacillus	Bacillus licheniformis
+128579	Ribosomal_L16	100.0	True	Bacteria	Bacillota	Bacilli	Bacillales	Bacillaceae	Bacillus	Bacillus licheniformis
+128582	Ribosomal_L14	100.0	True	Bacteria	Bacillota	Bacilli	Bacillales	Bacillaceae	Bacillus	Bacillus licheniformis
+128584	Ribosomal_L5	100.0	True	Bacteria	Bacillota	Bacilli	Bacillales	Bacillaceae	Bacillus	Bacillus licheniformis
+128586	Ribosomal_S8	100.0	True	Bacteria	Bacillota	Bacilli	Bacillales	Bacillaceae	Bacillus	
+128591	Ribosomal_L27A	100.0	True	Bacteria	Bacillota	Bacilli	Bacillales	Bacillaceae	Bacillus	
+128600	Ribosomal_S11	100.0	True	Bacteria	Bacillota	Bacilli	Bacillales	Bacillaceae	Bacillus	Bacillus licheniformis
+128602	Ribosomal_L17	100.0	True	Bacteria	Bacillota	Bacilli	Bacillales	Bacillaceae	Bacillus	
+128609	Ribosomal_L13	100.0	True	Bacteria	Bacillota	Bacilli	Bacillales	Bacillaceae	Bacillus	
+128610	Ribosomal_S9	100.0	True	Bacteria	Bacillota	Bacilli	Bacillales	Bacillaceae	Bacillus	Bacillus licheniformis
+136664	Ribosomal_S15	100.0	True	Bacteria	Bacillota	Bacilli	Bacillales	Bacillaceae	Bacillus	
+136695	Ribosomal_S2	100.0	True	Bacteria	Bacillota	Bacilli	Bacillales	Bacillaceae	Bacillus	Bacillus licheniformis
+136758	Ribosomal_L19	100.0	True	Bacteria	Bacillota	Bacilli	Bacillales	Bacillaceae	Bacillus	
+136765	Ribosomal_S16	100.0	True	Bacteria	Bacillota	Bacilli	Bacillales	Bacillaceae	Bacillus	

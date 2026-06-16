@@ -1,0 +1,13 @@
+gene_callers_id	gene_name	percent_identity	supporting_consensus	t_domain	t_phylum	t_class	t_order	t_family	t_genus	t_species
+24707	Ribosomal_L1	100.0	True	Bacteria	Actinomycetota	Actinomycetia	Actinomycetales	Micrococcaceae	Arthrobacter	
+24721	Ribosomal_S7	100.0	False	Bacteria	Actinomycetota	Actinomycetia	Actinomycetales	Micrococcaceae		
+91314	Ribosomal_L21p	100.0	True	Bacteria	Actinomycetota	Actinomycetia	Actinomycetales	Micrococcaceae	Arthrobacter	Arthrobacter sp013359735
+91401	Ribosomal_L19	100.0	True	Bacteria	Actinomycetota	Actinomycetia	Actinomycetales	Micrococcaceae	Arthrobacter	
+91405	Ribosomal_S16	99.3	True	Bacteria	Actinomycetota	Actinomycetia	Actinomycetales	Micrococcaceae	Arthrobacter	
+91940	Ribosomal_S6	100.0	True	Bacteria	Actinomycetota	Actinomycetia	Actinomycetales	Micrococcaceae	Arthrobacter	
+148845	Ribosomal_L20	100.0	True	Bacteria	Actinomycetota	Actinomycetia	Actinomycetales	Micrococcaceae	Arthrobacter	Arthrobacter sp013359735
+148899	Ribosomal_S15	100.0	True	Bacteria	Actinomycetota	Actinomycetia	Actinomycetales	Micrococcaceae	Arthrobacter	
+154111	Ribosomal_S11	100.0	False	Bacteria	Actinomycetota	Actinomycetia	Actinomycetales	Micrococcaceae		
+154113	Ribosomal_L17	100.0	True	Bacteria	Actinomycetota	Actinomycetia	Actinomycetales	Micrococcaceae	Arthrobacter	
+154135	Ribosomal_L13	100.0	True	Bacteria	Actinomycetota	Actinomycetia	Actinomycetales	Micrococcaceae	Arthrobacter	
+154136	Ribosomal_S9	100.0	True	Bacteria	Actinomycetota	Actinomycetia	Actinomycetales	Micrococcaceae	Arthrobacter	Arthrobacter sp013359735

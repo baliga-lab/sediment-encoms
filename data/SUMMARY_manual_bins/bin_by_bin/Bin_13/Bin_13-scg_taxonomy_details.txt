@@ -1,0 +1,23 @@
+gene_callers_id	gene_name	percent_identity	supporting_consensus	t_domain	t_phylum	t_class	t_order	t_family	t_genus	t_species
+42639	Ribosomal_S15	100.0	True	Bacteria	Pseudomonadota	Gammaproteobacteria	Burkholderiales	Burkholderiaceae	Paraburkholderia	
+43032	Ribosomal_S6	100.0	True	Bacteria	Pseudomonadota	Gammaproteobacteria	Burkholderiales	Burkholderiaceae	Paraburkholderia	
+43507	Ribosomal_S2	100.0	True	Bacteria	Pseudomonadota	Gammaproteobacteria	Burkholderiales	Burkholderiaceae	Paraburkholderia	
+43878	Ribosomal_L20	100.0	False	Bacteria	Pseudomonadota	Gammaproteobacteria	Burkholderiales	Burkholderiaceae		
+44157	Ribosomal_L19	99.2	True	Bacteria	Pseudomonadota	Gammaproteobacteria	Burkholderiales	Burkholderiaceae	Paraburkholderia	
+44160	Ribosomal_S16	100.0	False	Bacteria	Pseudomonadota	Gammaproteobacteria	Burkholderiales	Burkholderiaceae		
+47600	Ribosomal_S9	100.0	True	Bacteria	Pseudomonadota	Gammaproteobacteria	Burkholderiales	Burkholderiaceae	Paraburkholderia	
+47601	Ribosomal_L13	100.0	True	Bacteria	Pseudomonadota	Gammaproteobacteria	Burkholderiales	Burkholderiaceae	Paraburkholderia	
+47692	Ribosomal_L21p	100.0	True	Bacteria	Pseudomonadota	Gammaproteobacteria	Burkholderiales	Burkholderiaceae	Paraburkholderia	
+47855	Ribosomal_L17	100.0	True	Bacteria	Pseudomonadota	Gammaproteobacteria	Burkholderiales	Burkholderiaceae	Paraburkholderia	
+47858	Ribosomal_S11	100.0	False	Bacteria	Pseudomonadota	Gammaproteobacteria	Burkholderiales	Burkholderiaceae		
+47863	Ribosomal_L27A	100.0	True	Bacteria	Pseudomonadota	Gammaproteobacteria	Burkholderiales	Burkholderiaceae	Paraburkholderia	Paraburkholderia graminis
+47868	Ribosomal_S8	100.0	True	Bacteria	Pseudomonadota	Gammaproteobacteria	Burkholderiales	Burkholderiaceae	Paraburkholderia	
+47870	Ribosomal_L5	100.0	True	Bacteria	Pseudomonadota	Gammaproteobacteria	Burkholderiales	Burkholderiaceae	Paraburkholderia	
+47872	Ribosomal_L14	100.0	False	Bacteria	Pseudomonadota	Gammaproteobacteria	Burkholderiales	Burkholderiaceae		
+47875	Ribosomal_L16	100.0	True	Bacteria	Pseudomonadota	Gammaproteobacteria	Burkholderiales	Burkholderiaceae	Paraburkholderia	
+47877	Ribosomal_L22	100.0	True	Bacteria	Pseudomonadota	Gammaproteobacteria	Burkholderiales	Burkholderiaceae	Paraburkholderia	
+47879	Ribosomal_L2	98.9	True	Bacteria	Pseudomonadota	Gammaproteobacteria	Burkholderiales	Burkholderiaceae	Paraburkholderia	
+47881	Ribosomal_L4	100.0	True	Bacteria	Pseudomonadota	Gammaproteobacteria	Burkholderiales	Burkholderiaceae	Paraburkholderia	
+47882	Ribosomal_L3	99.5	True	Bacteria	Pseudomonadota	Gammaproteobacteria	Burkholderiales	Burkholderiaceae	Paraburkholderia	
+71608	Ribosomal_S7	100.0	False	Bacteria	Pseudomonadota	Gammaproteobacteria	Burkholderiales	Burkholderiaceae		
+71615	Ribosomal_L1	100.0	True	Bacteria	Pseudomonadota	Gammaproteobacteria	Burkholderiales	Burkholderiaceae	Paraburkholderia	

@@ -1,0 +1,35 @@
+gene_callers_id	gene_name	percent_identity	supporting_consensus	t_domain	t_phylum	t_class	t_order	t_family	t_genus	t_species
+8272	Ribosomal_S6	97.9	True	Bacteria	Actinomycetota	Actinomycetia	Propionibacteriales	Nocardioidaceae	Nocardioides	Nocardioides sp024509035
+13044	Ribosomal_S7	99.4	False	Bacteria	Actinomycetota	Actinomycetia	Propionibacteriales	Nocardioidaceae	Nocardioides	
+13063	Ribosomal_L3	96.3	True	Bacteria	Actinomycetota	Actinomycetia	Propionibacteriales	Nocardioidaceae	Nocardioides	Nocardioides sp024509035
+13064	Ribosomal_L4	91.7	False	Bacteria	Actinomycetota	Actinomycetia	Propionibacteriales	Nocardioidaceae	Nocardioides	Nocardioides sp000015265
+13066	Ribosomal_L2	98.9	False	Bacteria	Actinomycetota	Actinomycetia	Propionibacteriales	Nocardioidaceae	Nocardioides	Nocardioides sp013778305
+13068	Ribosomal_L22	95.9	True	Bacteria	Actinomycetota	Actinomycetia	Propionibacteriales	Nocardioidaceae	Nocardioides	Nocardioides sp024509035
+13070	Ribosomal_L16	97.8	False	Bacteria	Actinomycetota	Actinomycetia	Propionibacteriales	Nocardioidaceae	Nocardioides	
+13073	Ribosomal_L14	100.0	False	Bacteria	Actinomycetota	Actinomycetia	Propionibacteriales	Nocardioidaceae	Nocardioides	
+13075	Ribosomal_L5	98.4	False	Bacteria	Actinomycetota	Actinomycetia	Propionibacteriales	Nocardioidaceae	Nocardioides	Nocardioides sp000620645
+13077	Ribosomal_S8	99.3	False	Bacteria	Actinomycetota	Actinomycetia				
+13083	Ribosomal_L27A	96.6	True	Bacteria	Actinomycetota	Actinomycetia	Propionibacteriales	Nocardioidaceae	Nocardioides	Nocardioides sp024509035
+13093	Ribosomal_S11	100.0	False	Bacteria	Actinomycetota	Actinomycetia	Propionibacteriales	Nocardioidaceae	Nocardioides	Nocardioides sp000015265
+13096	Ribosomal_L17	100.0	False	Bacteria	Actinomycetota	Actinomycetia	Nanopelagicales	Nanopelagicaceae	Planktophila	Planktophila sp009698975
+40406	Ribosomal_L20	100.0	True	Bacteria	Actinomycetota	Actinomycetia	Propionibacteriales	Nocardioidaceae	Nocardioides	Nocardioides sp024509035
+73135	Ribosomal_S7	99.4	False	Bacteria	Actinomycetota	Actinomycetia	Propionibacteriales	Nocardioidaceae	Nocardioides	
+73154	Ribosomal_L3	96.3	True	Bacteria	Actinomycetota	Actinomycetia	Propionibacteriales	Nocardioidaceae	Nocardioides	Nocardioides sp024509035
+73155	Ribosomal_L4	91.7	False	Bacteria	Actinomycetota	Actinomycetia	Propionibacteriales	Nocardioidaceae	Nocardioides	Nocardioides sp000015265
+73157	Ribosomal_L2	98.9	False	Bacteria	Actinomycetota	Actinomycetia	Propionibacteriales	Nocardioidaceae	Nocardioides	Nocardioides sp013778305
+73159	Ribosomal_L22	95.9	True	Bacteria	Actinomycetota	Actinomycetia	Propionibacteriales	Nocardioidaceae	Nocardioides	Nocardioides sp024509035
+73161	Ribosomal_L16	97.8	False	Bacteria	Actinomycetota	Actinomycetia	Propionibacteriales	Nocardioidaceae	Nocardioides	
+73164	Ribosomal_L14	100.0	False	Bacteria	Actinomycetota	Actinomycetia	Propionibacteriales	Nocardioidaceae	Nocardioides	
+73166	Ribosomal_L5	97.9	False	Bacteria	Actinomycetota	Actinomycetia	Propionibacteriales	Nocardioidaceae	Nocardioides	Nocardioides sp000620645
+73173	Ribosomal_L27A	96.6	True	Bacteria	Actinomycetota	Actinomycetia	Propionibacteriales	Nocardioidaceae	Nocardioides	Nocardioides sp024509035
+73183	Ribosomal_S11	100.0	False	Bacteria	Actinomycetota	Actinomycetia	Propionibacteriales	Nocardioidaceae		
+73186	Ribosomal_L17	97.0	False	Bacteria	Actinomycetota	Actinomycetia	Propionibacteriales	Nocardioidaceae	Nocardioides	
+73393	Ribosomal_S16	93.7	False	Bacteria	Actinomycetota	Actinomycetia	Propionibacteriales	Nocardioidaceae	Nocardioides	Nocardioides sp002117935
+73397	Ribosomal_L19	96.5	True	Bacteria	Actinomycetota	Actinomycetia	Propionibacteriales	Nocardioidaceae	Nocardioides	Nocardioides sp024509035
+73408	Ribosomal_S2	95.5	True	Bacteria	Actinomycetota	Actinomycetia	Propionibacteriales	Nocardioidaceae	Nocardioides	Nocardioides sp024509035
+73480	Ribosomal_S15	100.0	False	Bacteria	Actinomycetota	Actinomycetia	Propionibacteriales	Nocardioidaceae	Nocardioides	
+112344	Ribosomal_S9	98.8	True	Bacteria	Actinomycetota	Actinomycetia	Propionibacteriales	Nocardioidaceae	Nocardioides	Nocardioides sp024509035
+112345	Ribosomal_L13	97.8	True	Bacteria	Actinomycetota	Actinomycetia	Propionibacteriales	Nocardioidaceae	Nocardioides	Nocardioides sp024509035
+112346	Ribosomal_L13	96.4	False	Bacteria	Actinomycetota	Actinomycetia	Propionibacteriales	Nocardioidaceae	Nocardioides	
+112480	Ribosomal_L1	96.2	False	Bacteria	Actinomycetota	Actinomycetia	Propionibacteriales	Nocardioidaceae	Nocardioides	Nocardioides sp000015265
+113202	Ribosomal_S6	97.9	True	Bacteria	Actinomycetota	Actinomycetia	Propionibacteriales	Nocardioidaceae	Nocardioides	Nocardioides sp024509035

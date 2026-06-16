@@ -1,0 +1,2 @@
+1	Bin_5	Bin_21	Bin_37	Bin_41	Bin_15	Bin_10	Bin_18	Bin_13	Bin_8	Bin_11	Bin_9	Bin_12	Bin_22	Bin_39	Bin_7	Bin_40	Bin_6	Bin_20	Bin_14	Bin_16	Bin_3
+2	Bin_5	Bin_21	Bin_15	Bin_41	Bin_37	Bin_10	Bin_18	Bin_13	Bin_8	Bin_2	Bin_11	Bin_12	Bin_9	Bin_22	Bin_1	Bin_39	Bin_7	Bin_6	Bin_40	Bin_20	Bin_16	Bin_3

@@ -1,0 +1,23 @@
+gene_callers_id	gene_name	percent_identity	supporting_consensus	t_domain	t_phylum	t_class	t_order	t_family	t_genus	t_species
+78076	Ribosomal_S2	100.0	False	Bacteria	Pseudomonadota	Alphaproteobacteria	Rhizobiales	Rhizobiaceae	Allorhizobium	
+78261	Ribosomal_L17	100.0	False	Bacteria	Pseudomonadota	Alphaproteobacteria	Rhizobiales	Rhizobiaceae	Allorhizobium	
+78263	Ribosomal_S11	100.0	False	Bacteria	Pseudomonadota	Alphaproteobacteria	Rhizobiales	Rhizobiaceae		
+78267	Ribosomal_L27A	100.0	True	Bacteria	Pseudomonadota	Alphaproteobacteria	Rhizobiales	Rhizobiaceae	Allorhizobium	Allorhizobium ferrooxidans
+78272	Ribosomal_S8	100.0	False	Bacteria	Pseudomonadota	Alphaproteobacteria	Rhizobiales	Rhizobiaceae	Allorhizobium	
+78274	Ribosomal_L5	100.0	True	Bacteria	Pseudomonadota	Alphaproteobacteria	Rhizobiales	Rhizobiaceae	Allorhizobium	Allorhizobium ferrooxidans
+78276	Ribosomal_L14	100.0	False	Bacteria	Pseudomonadota	Alphaproteobacteria	Rhizobiales	Rhizobiaceae		
+78279	Ribosomal_L16	100.0	False	Bacteria	Pseudomonadota	Alphaproteobacteria	Rhizobiales	Rhizobiaceae	Allorhizobium	
+78281	Ribosomal_L22	100.0	True	Bacteria	Pseudomonadota	Alphaproteobacteria	Rhizobiales	Rhizobiaceae	Allorhizobium	Allorhizobium ferrooxidans
+78283	Ribosomal_L2	100.0	True	Bacteria	Pseudomonadota	Alphaproteobacteria	Rhizobiales	Rhizobiaceae	Allorhizobium	Allorhizobium ferrooxidans
+78285	Ribosomal_L4	99.5	True	Bacteria	Pseudomonadota	Alphaproteobacteria	Rhizobiales	Rhizobiaceae	Allorhizobium	Allorhizobium ferrooxidans
+78286	Ribosomal_L3	99.5	False	Bacteria	Pseudomonadota	Alphaproteobacteria	Rhizobiales	Rhizobiaceae	Allorhizobium	
+78290	Ribosomal_S7	98.7	True	Bacteria	Pseudomonadota	Alphaproteobacteria	Rhizobiales	Rhizobiaceae	Allorhizobium	Allorhizobium ferrooxidans
+78298	Ribosomal_L1	99.6	True	Bacteria	Pseudomonadota	Alphaproteobacteria	Rhizobiales	Rhizobiaceae	Allorhizobium	Allorhizobium ferrooxidans
+78409	Ribosomal_L13	100.0	False	Bacteria	Pseudomonadota	Alphaproteobacteria	Rhizobiales	Rhizobiaceae	Allorhizobium	
+78410	Ribosomal_S9	99.4	True	Bacteria	Pseudomonadota	Alphaproteobacteria	Rhizobiales	Rhizobiaceae	Allorhizobium	Allorhizobium ferrooxidans
+78522	Ribosomal_S6	100.0	False	Bacteria	Pseudomonadota	Alphaproteobacteria	Rhizobiales	Rhizobiaceae	Allorhizobium	
+79598	Ribosomal_L20	100.0	False	Bacteria	Pseudomonadota	Alphaproteobacteria	Rhizobiales	Rhizobiaceae	Allorhizobium	
+79749	Ribosomal_S15	100.0	False	Bacteria	Pseudomonadota	Alphaproteobacteria	Rhizobiales	Rhizobiaceae	Allorhizobium	
+99030	Ribosomal_S16	100.0	True	Bacteria	Pseudomonadota	Alphaproteobacteria	Rhizobiales	Rhizobiaceae	Allorhizobium	Allorhizobium ferrooxidans
+99034	Ribosomal_L19	100.0	True	Bacteria	Pseudomonadota	Alphaproteobacteria	Rhizobiales	Rhizobiaceae	Allorhizobium	Allorhizobium ferrooxidans
+99088	Ribosomal_L21p	100.0	True	Bacteria	Pseudomonadota	Alphaproteobacteria	Rhizobiales	Rhizobiaceae	Allorhizobium	Allorhizobium ferrooxidans
