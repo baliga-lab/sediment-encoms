@@ -8,3 +8,5 @@ The metagenomes were sequenced with Nanopore MinION and PromethION sequencers, b
 The results were aggregated using Anvi'o for annotation and various analyses. 
 Data from Anvi'o is exported and analyzed in the contained Jupyter notebooks for statistical analysis and visualization.
 The notebooks are split as they are sectioned in the manuscript. 
+
+Download and create a new conda environment using `sediment-encoms-env.yml` to use as the kernel to run the jupyter notebooks locally using the exact package versions I used to generate these notebooks.
